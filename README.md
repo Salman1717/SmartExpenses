@@ -58,6 +58,7 @@ Gain insights into your spending patterns.
   flutter run
 
 ## ScreenShots
+
 ![Screenshot_20231030_023918](https://github.com/Salman1717/SmartExpenses/assets/109744132/257a8039-1888-4e6b-8634-97c5d454d919)
 
 ![Screenshot_20231030_024036](https://github.com/Salman1717/SmartExpenses/assets/109744132/c92f083e-adcc-4ca8-8a8d-2f851a0fbb7f)
