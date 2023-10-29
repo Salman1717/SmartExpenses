@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707442974575",
+    "project_id": "smart-expenses-88c32",
+    "storage_bucket": "smart-expenses-88c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707442974575:android:a85fa8fffd4d367f7d129a",
+        "android_client_info": {
+          "package_name": "com.example.smart_expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqwHolfLqrUsInuIlaGhpmh7cqc0Xxk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
