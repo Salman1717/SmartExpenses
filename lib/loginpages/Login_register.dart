@@ -45,7 +45,7 @@ class _LoginPageState extends State<LoginPage> {
 
   Widget _title() {
     return const Text(
-      '~SMART EXPENSES~',
+      'SMART EXPENSES',
       style: TextStyle(
         fontSize: 28,
         fontWeight: FontWeight.w400,
@@ -95,7 +95,7 @@ class _LoginPageState extends State<LoginPage> {
             isLogin = !isLogin;
           });
         },
-        child: Text(isLogin ? 'Login' : 'Register instead'));
+        child: Text(isLogin ? 'New? Register here' : 'Already Registered? Login'));
   }
 
   @override
