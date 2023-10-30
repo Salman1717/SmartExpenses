@@ -58,16 +58,20 @@ Gain insights into your spending patterns.
   flutter run
 
 ## ScreenShots
-
+- Login:
 ![Screenshot_20231030_023918](https://github.com/Salman1717/SmartExpenses/assets/109744132/257a8039-1888-4e6b-8634-97c5d454d919)
-
+- Home
 ![Screenshot_20231030_024036](https://github.com/Salman1717/SmartExpenses/assets/109744132/c92f083e-adcc-4ca8-8a8d-2f851a0fbb7f)
-
+- NewExpense
 ![Screenshot_20231030_024013](https://github.com/Salman1717/SmartExpenses/assets/109744132/98bdcf1a-31e5-4d96-a04c-4a5fc8ddf1d6)
-
+- Category Page
 ![Screenshot_20231030_024105](https://github.com/Salman1717/SmartExpenses/assets/109744132/522134ab-98e5-413b-a8f7-0470c260abb7)
-
+- All Expenses
 ![Screenshot_20231030_025709](https://github.com/Salman1717/SmartExpenses/assets/109744132/f87c1e4c-a508-4979-a65b-648da776f36a)
-
+- Delete Expense
 ![Screenshot_20231030_025726](https://github.com/Salman1717/SmartExpenses/assets/109744132/311d2f29-5549-4cbe-81e7-01c984debb5f)
+- Firebase Authentication
+<img width="1183" alt="Screenshot 2023-10-30 at 12 06 05 PM" src="https://github.com/Salman1717/SmartExpenses/assets/109744132/f6384a92-6164-4d2f-b2d3-6025ac70f081">
+
+
 
